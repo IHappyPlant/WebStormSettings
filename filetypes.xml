@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="ml_statistics_jobs" type="AUTO_DETECTED" />
+      <mapping pattern="drift_calculation_job" type="AUTO_DETECTED" />
+      <mapping pattern="tmp" type="AUTO_DETECTED" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

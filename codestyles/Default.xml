@@ -5,6 +5,7 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <LessCodeStyleSettings>

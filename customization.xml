@@ -1,0 +1,40 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Git" />
+      <path value="Git.MainMenu" />
+      <path value="Uncommitted Changes" />
+      <path value="Vcs.UmlDiff" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Diagrams" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Diagrams" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Popup Menu" />
+      <path value="Diagrams" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Git" />
+      <path value="Vcs.MainMenu" />
+      <path value="VCS Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
